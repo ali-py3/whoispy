@@ -1,6 +1,6 @@
 # whoops tools
 
-This tool do whois from ip. you can give file contains ip or give a single ip to the tool
+This tool do whois from ip (like whois tool but with better managment ). you can give file contains ip or give a single ip to the tool
 
 # Files
 
@@ -27,3 +27,16 @@ After run this command you can run tool in any path with `whopy` command like :
 ##### Normal using
 	cd whoispy
 	python3 whopy.py -h
+##### Output
+`whopy -ip 1.1.1.1`
+
+	 [*] Ip whois result
+
+           IP = 1.1.1.1
+           ASN Registry = apnic
+           Org = APNIC and Cloudflare DNS Resolver projectRouted globally by AS13335/CloudflareResearch prefix for APNIC Labs
+           Net Handle = AA1412-AP
+           Net Name = APNIC-LABS
+           Emails = ['resolverabuse@cloudflare.com','helpdes@apnic.net', 'research@apnic.net']
+           ASN = AS13335
+           CIDR = 1.1.1.0/24
