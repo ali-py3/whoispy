@@ -22,7 +22,6 @@ def IpWhois():
     if args.ipaddress:
         obj = IPWhois(args.ipaddress)
         result.append(obj.lookup_whois())
-        # print(result)
     for i in range(len(result)):
         for j in result[i]['nets']:
             asn = result[i]['asn']
