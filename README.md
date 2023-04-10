@@ -1,4 +1,4 @@
-# whoops tools
+# whopy tools
 
 This tool do whois from ip (like whois tool but with better managment ). you can give file contains ip or give a single ip to the tool
 
