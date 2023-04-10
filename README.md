@@ -1,6 +1,6 @@
 # whopy tools
 
-This tool do whois from ip (like whois tool but with better managment ). you can give file contains ip or give a single ip to the tool
+This tool do Reverse Whois from ip (like whois tool but with better managment ). you can give file contains ip or give a single ip to the tool
 
 # Files
 
